@@ -1,4 +1,4 @@
-# YouTube Clone Backend
+# YouTube Backend
 
 This repository contains the backend code for a YouTube clone application. The backend is built using Node.js, Express, and MongoDB and provides essential features for a video-sharing platform, such as user authentication, video management, and social interactions like subscribing, liking, commenting, and more.
 
@@ -22,7 +22,7 @@ This repository contains the backend code for a YouTube clone application. The b
 
 ## Database Schema
 
-![Database Schema](/Backend/Schema.png)
+![Database Schema](/Schema.png)
 
 
 ## Testing
