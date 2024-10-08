@@ -28,3 +28,8 @@ This repository contains the backend code for a YouTube clone application. The b
 ## Testing
 
 All routes have been thoroughly tested using Postman to ensure they work as intended. Each functionality, including authentication, video management, and interactions, has been validated for reliability.
+
+## Acknowledgments
+
+This project was inspired by and developed while following the Chai aur Code backend series. Through this learning journey, I've gained deep insights into Node.js, Express, and MongoDB. While the codebase draws from the series, I've adapted and implemented each concept to fit this YouTube clone's specific needs, enhancing my understanding of backend development.
+
